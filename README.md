@@ -1,2 +1,2 @@
 # ethanmwu.github.io
-Website
+Website - see index.html for more info
